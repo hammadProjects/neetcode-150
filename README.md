@@ -76,6 +76,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/muhammad-hammad-sarwar/neetcode-150/tree/master/0015-3sum) |
 | [0922-sort-array-by-parity-ii](https://github.com/muhammad-hammad-sarwar/neetcode-150/tree/master/0922-sort-array-by-parity-ii) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/muhammad-hammad-sarwar/neetcode-150/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
@@ -85,10 +86,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/muhammad-hammad-sarwar/neetcode-150/tree/master/0015-3sum) |
 | [0922-sort-array-by-parity-ii](https://github.com/muhammad-hammad-sarwar/neetcode-150/tree/master/0922-sort-array-by-parity-ii) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/muhammad-hammad-sarwar/neetcode-150/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/muhammad-hammad-sarwar/neetcode-150/tree/master/0015-3sum) |
 | [0922-sort-array-by-parity-ii](https://github.com/muhammad-hammad-sarwar/neetcode-150/tree/master/0922-sort-array-by-parity-ii) |
 <!---LeetCode Topics End-->
