@@ -94,4 +94,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0015-3sum](https://github.com/muhammad-hammad-sarwar/neetcode-150/tree/master/0015-3sum) |
 | [0922-sort-array-by-parity-ii](https://github.com/muhammad-hammad-sarwar/neetcode-150/tree/master/0922-sort-array-by-parity-ii) |
+## String
+|  |
+| ------- |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/muhammad-hammad-sarwar/neetcode-150/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/muhammad-hammad-sarwar/neetcode-150/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
